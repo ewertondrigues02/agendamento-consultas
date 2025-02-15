@@ -1,7 +1,5 @@
 # Agendamento de Consultas
 
-
-
 O sistema de agendamento de consultas médicas é dividido em diversos microserviços: `Doctors`, `Patients` e `Scheduling`. O fluxo do sistema é o seguinte:
 
 1. **Cadastro do Paciente**:
