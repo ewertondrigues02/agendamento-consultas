@@ -53,7 +53,7 @@ public class AuthenticationControllerTest {
         authenticationDTO = new AuthenticationDTO("johndoe@example.com", "password123");
         registerDTO = new RegisterDTO("johndoe@example.com", "password123", "ROLE_USER");
 
-        patientModel = new PatientModel("johndoe@example.com", "encryptedPassword", "ROLE_USER");
+        patientModel = new PatientModel();
     }
 
     @Test

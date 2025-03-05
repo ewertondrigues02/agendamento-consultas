@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Micro Serviço de Agendamento de Consultas Médicas.iml" filepath="$PROJECT_DIR$/.idea/Micro Serviço de Agendamento de Consultas Médicas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service-doctor/service-doctor.iml" filepath="$PROJECT_DIR$/service-doctor/service-doctor.iml" />
     </modules>
   </component>
 </project>
